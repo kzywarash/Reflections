@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Answer: An empty repository is created. It is needed to keep track of your files and its changes.
