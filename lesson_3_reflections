@@ -5,4 +5,6 @@ Thought:Manual pulling gives you more control and helps you organise your work b
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Thought:-Fork is a command used to copy a reopsitory from another person's account to yours on github.I would use it  when I want 			to copy a repository and keep it online without having to download it in my computer.
 		-Clone is a command used to copy a repository from Github to your computer.
-		-Branch is a commend used to create a different part to store commits in my repository
+		-Branch is a commend used to create a different part to store commits in my repository.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Thought:In order to be able to fix conflicts when trying to merge.
