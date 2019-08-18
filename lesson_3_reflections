@@ -8,3 +8,5 @@ Thought:-Fork is a command used to copy a reopsitory from another person's accou
 		-Branch is a commend used to create a different part to store commits in my repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Thought:In order to be able to fix conflicts when trying to merge.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Thought:The only way collaborate without those is using social media. I would be harder because it would be difficult to locate the 		changes made to code and request changes.
